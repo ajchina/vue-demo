@@ -1,0 +1,7 @@
+.price{
+    margin-right:30px;
+    font:500 18px/30px '微软雅黑';
+}
+.table  tbody tr > td{
+    padding-top: 15px;
+}
